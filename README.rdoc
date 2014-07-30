@@ -9,5 +9,3 @@ This is a default Rails 4 template which includes the following:
 * CSS Reset
 
 * Index page
-
-* ...
